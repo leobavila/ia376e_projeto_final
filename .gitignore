@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Data
+*.txt
+data/
+
+# Hidden Files
+desktop.ini
