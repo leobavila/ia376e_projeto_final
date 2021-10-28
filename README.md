@@ -19,4 +19,5 @@
 
 ## Pipeline:
 Multi-Stage Ranking Architecture [5].
+
 ![image](https://user-images.githubusercontent.com/35712949/139275242-e37844b2-a8ed-4257-93e6-080d567ba6c1.png)
