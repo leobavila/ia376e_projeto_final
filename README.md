@@ -2,7 +2,7 @@
 
 Autores: [Leonardo Bernardi de Avila](https://github.com/leobavila) e [Pedro Gabriel Gengo Lourenço](https://github.com/pedrogengo)
 
-Orientador: Rodrigo Nogueira
+Orientador: [Rodrigo Nogueira](https://github.com/rodrigonogueira4)
 
 ## Resumo:
 
