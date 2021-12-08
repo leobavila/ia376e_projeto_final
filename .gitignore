@@ -130,6 +130,7 @@ dmypy.json
 
 # Data
 *.txt
+*.json
 data/
 
 # Hidden Files
