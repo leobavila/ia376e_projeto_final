@@ -1,6 +1,7 @@
 # Melhoria da função de agregação do DuoT5
 
 Autores: Leonardo Avila e [Pedro Gengo](https://github.com/pedrogengo)
+
 Orientador: Rodrigo Nogueira
 
 ## Resumo:
